@@ -1,9 +1,9 @@
 # Rat in a Maze
 The program is written in python3 using the module "pygame"(a 2d gui framework for python).  
 To install pygame in a linux distrubution, use the following command :  
-		> sudo pip3 install pygame  
+		`sudo pip3 install pygame`  
 To run the program give executable permission to the python script file :  
-		> chmod +x rat-and-maze.py  
+		`chmod +x rat-and-maze.py`  
    and execute using "./rat-and-maze".  
 The maze is of size 20 x 20.  
 There are two button in the gui window.  
